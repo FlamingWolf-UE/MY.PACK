@@ -357,3 +357,7 @@ background-image: url('https://static.tildacdn.info/lib/tildaicon/33376331-6561-
     padding: 20px;
     margin-bottom: 20px;
 }
+
+a{
+    text-decoration: none;
+}
